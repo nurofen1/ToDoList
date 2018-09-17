@@ -66,7 +66,7 @@ GEM
     json (1.8.6)
     less (2.6.0)
       commonjs (~> 0.2.7)
-    less-rails (2.8.0)
+    less-rails (3.0.0)
       actionpack (>= 4.0)
       grease
       less (~> 2.6.0)
